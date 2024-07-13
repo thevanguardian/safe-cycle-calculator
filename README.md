@@ -43,7 +43,7 @@ $ make data
 ### Run the Main Script
 To run the main script, use the following command:
 ```sh
-$ python main_script.py -f ip_app_data.json -r 50
+$ python main.py -f ip_app_data.json -r 50
 ```
 
 ### Arguments
